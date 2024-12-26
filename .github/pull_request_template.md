@@ -3,7 +3,7 @@
 [![Code Quality Scan](https://github.com/Trimble-xOps/<repo-name>/actions/workflows/sonarscan.yaml/badge.svg?branch=main)](https://github.com/Trimble-xOps/repo-name/actions/workflows/sonarscan.yaml) 
 
 **Description:**
-Briefly describe the purpose and scope of this pull request.
+Briefly describe the purpose and scope of this pull requests.
 
 **Changes Made:**
 Describe the changes made in the files.
